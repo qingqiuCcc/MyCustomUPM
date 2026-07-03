@@ -15,4 +15,9 @@ public class MyTest
     {
         Debug.Log("DoNext");
     }
+
+    public void DoUpdate()
+    {
+        Debug.Log("DoUpdate");
+    }
 }
