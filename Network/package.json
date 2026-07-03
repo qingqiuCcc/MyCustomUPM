@@ -1,0 +1,14 @@
+{
+  "name": "com.qingqiuccc.network",
+  "version": "1.0.0",
+  "displayName": "Network",
+  "description": "网络模块（依赖 Core）",
+  "unity": "2022.3",
+  "author": {
+    "name": "qingqiuCcc",
+    "url": "https://github.com/qingqiuCcc"
+  },
+  "dependencies": {
+    "com.qingqiuccc.core": "1.0.0"
+  }
+}
