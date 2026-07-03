@@ -6,4 +6,8 @@ public class MyTest
     {
         Debug.Log("Hello MyTest!");
     }
+    public void DoMove()
+    {
+        Debug.Log("DoMove");
+    }
 }
