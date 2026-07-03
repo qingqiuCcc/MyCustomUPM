@@ -10,4 +10,9 @@ public class MyTest
     {
         Debug.Log("DoMove");
     }
+
+    public void DoNext()
+    {
+        Debug.Log("DoNext");
+    }
 }
