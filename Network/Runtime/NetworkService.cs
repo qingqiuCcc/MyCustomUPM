@@ -10,4 +10,8 @@ public class NetworkService
         core.DoPrint();
         Debug.Log("[Network] Connected. (成功调用了 Core.MyTest)");
     }
+	public void Close()
+{
+        Debug.Log("[Network] Close");
+}
 }
